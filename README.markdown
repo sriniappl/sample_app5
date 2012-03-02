@@ -25,6 +25,13 @@ more separate. Each of these packages can be used independently outside of
 Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
+# Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*] 
+by Srini Appikatla - javabeginner.com.
+
+
 
 == Getting Started
 
